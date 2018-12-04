@@ -1,3 +1,12 @@
+## Set-up:
+`$ cd`
+
+`$ rm -rf .vim`  (Only if you already have a .vim file on that computer)
+
+`$ git clone --recurse-submodules https://github.com/ValerianClerc/vimconfig.git .vim`
+
+`$ echo "runtime vimrc" > .vimrc`
+
 ## Vim packages used:
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim)
@@ -9,3 +18,5 @@
 
 ## Color theme:
 * [tender](https://github.com/jacoborus/tender.vim)
+
+
