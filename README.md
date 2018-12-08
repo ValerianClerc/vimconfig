@@ -19,4 +19,6 @@
 ## Color theme:
 * [tender](https://github.com/jacoborus/tender.vim)
 
+## Notes:
 
+I also use `vim-gtk` as a package for accessing the clipboard from vim for Debian/Ubuntu.
