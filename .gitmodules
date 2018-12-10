@@ -19,3 +19,6 @@
 [submodule "bundle/tender.vim"]
 	path = bundle/tender.vim
 	url = https://github.com/jacoborus/tender.vim.git
+[submodule "bundle/vim-monokai"]
+	path = bundle/vim-monokai
+	url = https://github.com/sickill/vim-monokai.git
