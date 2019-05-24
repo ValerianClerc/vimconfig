@@ -1,11 +1,9 @@
 ## Set-up:
-`$ cd`
+`$ rm -rf ~/.vim`  (Only if you already have a .vim file on that computer)
 
-`$ rm -rf .vim`  (Only if you already have a .vim file on that computer)
+`$ git clone --recurse-submodules https://github.com/ValerianClerc/vimconfig.git ~/.vim`
 
-`$ git clone --recurse-submodules https://github.com/ValerianClerc/vimconfig.git .vim`
-
-`$ echo "runtime vimrc" > .vimrc`
+`$ echo "runtime vimrc" > ~/.vimrc`
 
 ## Vim packages used:
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs)
