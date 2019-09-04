@@ -22,3 +22,6 @@
 [submodule "bundle/vim-monokai"]
 	path = bundle/vim-monokai
 	url = https://github.com/sickill/vim-monokai.git
+[submodule "bundle/vimtex"]
+	path = bundle/vimtex
+	url = https://github.com/lervag/vimtex.git

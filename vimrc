@@ -1,5 +1,5 @@
 execute pathogen#infect()
-"syntax on
+syntax on
 filetype plugin indent on
 
 "Syntactic
